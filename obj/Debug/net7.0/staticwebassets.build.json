@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ad1PLmYYsBsc7bSU7/UCW5thfn7PDHi0AFOfGMLtxek=",
+  "Source": "Mini_Challenge_Say_Hello_Endpoint",
+  "BasePath": "_content/Mini_Challenge_Say_Hello_Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
